@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather">Weather</string>
+    <string name="app">APP</string>
+    <string name="no_location_added">No location added.</string>
+    <string name="add_location">Add location</string>
+    <string name="feels_like_fahrenheit">Feels like Fahrenheit</string>
+    <string name="feels_like_celcius">Feels like Celcius</string>
+    <string name="celcius">Celcius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="loading">Loading...</string>
+    <string name="hour">Hour</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="current">Current</string>
+    <string name="detail">Detail</string>
+    <string name="set_location">Set Location</string>
+
+    <string-array name="cities">
+        <item>Adana,Turkey</item>
+        <item>Adiyaman,Turkey</item>
+        <item>Afyonkarahisar,Turkey</item>
+        <item>Agri,Turkey</item>
+        <item>Amasya,Turkey</item>
+        <item>Ankara,Turkey</item>
+        <item>Antalya,Turkey</item>
+        <item>Artvin,Turkey</item>
+        <item>Aydin,Turkey</item>
+        <item>Balikesir,Turkey</item>
+        <item>Bilecik,Turkey</item>
+        <item>Bingol,Turkey</item>
+        <item>Bitlis,Turkey</item>
+        <item>Bolu,Turkey</item>
+        <item>Burdur,Turkey</item>
+        <item>Bursa,Turkey</item>
+        <item>Canakkale,Turkey</item>
+        <item>Cankiri,Turkey</item>
+        <item>Corum,Turkey</item>
+        <item>Denizli,Turkey</item>
+        "
+        <item>Diyarbakir,Turkey</item>
+        <item>Edirne,Turkey</item>
+        <item>Elazig,Turkey</item>
+        <item>Erzincan,Turkey</item>
+        <item>Erzurum,Turkey</item>
+        <item>Eskisehir,Turkey</item>
+        <item>Gaziantep,Turkey</item>
+        <item>Giresun,Turkey</item>
+        <item>Gumushane,Turkey</item>
+        <item>Hakkari,Turkey</item>
+        <item>Hatay,Turkey</item>
+        <item>Isparta,Turkey</item>
+        <item>Mersin,Turkey</item>
+        <item>Istanbul,Turkey</item>
+        <item>Izmir,Turkey</item>
+        <item>Kars,Turkey</item>
+        <item>Kastamonu,Turkey</item>
+        <item>Kayseri,Turkey</item>
+        <item>Kirklareli,Turkey</item>
+        <item>Kirsehir,Turkey</item>
+        <item>Kocaeli,Turkey</item>
+        <item>Konya,Turkey</item>
+        <item>Kutahya,Turkey</item>
+        <item>Malatya,Turkey</item>
+        <item>Manisa,Turkey</item>
+        <item>Kahramanmaras,Turkey</item>
+        <item>Mardin,Turkey</item>
+        <item>Mugla,Turkey</item>
+        <item>Mus,Turkey</item>
+        <item>Nevsehir,Turkey</item>
+        <item>Nigde,Turkey</item>
+        <item>Ordu,Turkey</item>
+        <item>Rize,Turkey</item>
+        <item>Sakarya,Turkey</item>
+        <item>Samsun,Turkey</item>
+        <item>Siirt,Turkey</item>
+        <item>Sinop,Turkey</item>
+        <item>Sivas,Turkey</item>
+        <item>Tekirdag,Turkey</item>
+        <item>Tokat,Turkey</item>
+        <item>Trabzon,Turkey</item>
+        <item>Tunceli,Turkey</item>
+        <item>Sanliurfa,Turkey</item>
+        <item>Usak,Turkey</item>
+        <item>Van,Turkey</item>
+        <item>Zonguldak,Turkey</item>
+        <item>Aksaray,Turkey</item>
+        <item>Bayburt,Turkey</item>
+        <item>Karaman,Turkey</item>
+        <item>Kirikkale,Turkey</item>
+        <item>Batman,Turkey</item>
+        <item>Sirnak,Turkey</item>
+        <item>Bartin,Turkey</item>
+        <item>Ardahan,Turkey</item>
+        <item>Igdir,Turkey</item>
+        <item>Yalova,Turkey</item>
+        <item>Karabuk,Turkey</item>
+        <item>Kilis,Turkey</item>
+        <item>Osmaniye,Turkey</item>
+        <item>Duzce,Turkey</item>
+    </string-array>
+</resources>

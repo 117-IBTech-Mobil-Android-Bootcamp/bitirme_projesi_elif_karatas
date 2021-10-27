@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/background">
+    <PreferenceCategory android:title="Weather Location">
+        <EditTextPreference
+            android:icon="@drawable/new_location_icon_4_jpg"
+            android:key="CUSTOM_LOCATION"
+            android:summary="The location for which the weather is displayed"
+            android:title="Location" />
+    </PreferenceCategory>
+</PreferenceScreen>

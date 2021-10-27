@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../WeatherAPP/app/src/main/res/xml/preferences.xml" value="0.11548913043478261" />
+        <entry key="app/src/main/res/drawable/background.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/card_item.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/card_item_current.xml" value="0.12708333333333333" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_current.xml" value="0.1286231884057971" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.10190217391304347" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/fragment_movie_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_weather_detail.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/row_current_weather.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_film.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_forecast_weather.xml" value="0.12364130434782608" />
+        <entry key="app/src/main/res/layout/row_hour_weather.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_type.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-xxhdpi/ic_launcher_round.xml" value="0.14322916666666666" />
+        <entry key="app/src/main/res/xml/preferences.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

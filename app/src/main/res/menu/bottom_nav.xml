@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/_8568c684f6ae202fedf271b"
+        android:title="@string/current" />
+    <item
+        android:id="@+id/weatherDetailFragment"
+        android:icon="@drawable/_987313"
+        android:title="@string/detail" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/location_icon_153558"
+        android:title="@string/set_location" />
+</menu>
