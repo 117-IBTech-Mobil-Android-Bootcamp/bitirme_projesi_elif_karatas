@@ -73,7 +73,7 @@ class WeatherRepositoryImpl(private val weatherNetworkDataSource: WeatherNetwork
     private fun persistFetchedWeatherDetail(fetchedWeather: WeatherDetailResponse) {
         GlobalScope.launch(Dispatchers.IO) {
             val weatherDetailList = fetchedWeather.forecastday.hour
-            detailsDAO.insert(weatherDetailList)
+            //detailsDAO.insert(weatherDetailList) <------------------ null object hatası
             weatherLocationDAO.upsert(fetchedWeather.weatherLocation)
         }
     }
