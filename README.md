@@ -1,0 +1,1 @@
+# bitirme_projesi_elif_karatas
