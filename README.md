@@ -1,1 +1,1 @@
-# bitirme_projesi_elif_karatas
+YouTube video linki: https://www.youtube.com/watch?v=f5yO7qzYelY
